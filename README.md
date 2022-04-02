@@ -8,3 +8,6 @@ Se recomienda crear una organizacion que sea propietaria del repositorio princip
 3. Click en Organizaciones (Menú izquierda)
 4. Click Nueva organización
 5. Click plan y llenar datos
+
+## Creación de Fork
+Para crear un Fork debe iniciar sesión y luego ingresar a la lading page del proyecto que quieras sacar tu Fork.
