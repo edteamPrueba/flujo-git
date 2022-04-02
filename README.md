@@ -11,3 +11,13 @@ Se recomienda crear una organizacion que sea propietaria del repositorio princip
 
 ## Creación de Fork
 Para crear un Fork debe iniciar sesión y luego ingresar a la lading page del proyecto que quieras sacar tu Fork.
+
+## Como trabajar con 2 o más remotos
+Listar remotos
+`git remote -V`
+
+Agregar remotos
+`git remote add edteamPrueba git@github.com:...`
+
+Eliminar remotos
+`git remote remove <Branch>`
